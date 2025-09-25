@@ -1,0 +1,3 @@
+- Modify Makefile.
+  - CADICAL_INC should find src of CaDiCaL, and CADICAL_LIB_DIR its build.
+  - PUGIXML_SRC should find pugixml.cpp and PUGIXML_INC a directory with pugixml.hpp
